@@ -1,0 +1,97 @@
+.personalized-button {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.personalized-button:hover {
+    background-color: #fff;
+}
+
+.personalized-button:active {
+    box-shadow: #422800 2px 2px 0 0;
+    transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+    .personalized-button {
+        min-width: 120px;
+        padding: 0 25px;
+    }
+}
+.home {
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,1),
+        rgba(0,0,0,0.4)),
+        url('/public/img/background.jpg');
+    background-size: cover;
+}
+
+.main-page {
+    color: whitesmoke;
+    padding: 3% 25%;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: justify;  
+}
+
+.name {
+    font-size: 55px;
+    font-weight: 500;
+    color: bisque;
+}
+
+.short-description {
+    color: burlywood;
+}
+
+.card-text2 {
+    padding: 0 25%;
+}
+
+.skills {
+    width: 60%; margin: 0 auto;
+}
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+.list-group-item {
+    color: brown;
+}
+
+
+#about-img {
+    width: 24%;
+    margin: 5px 8% 30px 20px;
+
+}
+
+.card-text1 {
+    font-weight: 300;
+    text-align: justify;
+}
+
+.card-title-about {
+    font-weight: 600;
+    font-size: 52px;
+    margin-bottom: 3%;
+}
+
+
+
