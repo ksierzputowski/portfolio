@@ -5,14 +5,11 @@
         <group>
             <file>file:/var/www/html/portfolio/skills.html</file>
             <file>file:/var/www/html/portfolio/public/img/me2.png</file>
-            <file>file:/var/www/html/portfolio/public/img/shop1.png</file>
-            <file>file:/var/www/html/portfolio/public/img/shop2.png</file>
+            <file>file:/var/www/html/portfolio/.gitlab-ci.yml</file>
             <file>file:/var/www/html/portfolio/project.html</file>
-            <file>file:/var/www/html/portfolio/public/img/shop3.png</file>
             <file>file:/var/www/html/portfolio/about.html</file>
             <file>file:/var/www/html/portfolio/public/img/background.jpg</file>
             <file>file:/var/www/html/portfolio/index.html</file>
-            <file>file:/var/www/html/portfolio/public/img/me.png</file>
             <file>file:/var/www/html/portfolio/public/css/style.css</file>
         </group>
     </open-files>
